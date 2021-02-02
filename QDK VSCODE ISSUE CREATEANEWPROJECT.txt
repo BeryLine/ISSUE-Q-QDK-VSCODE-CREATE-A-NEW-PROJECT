@@ -1,0 +1,21 @@
+help regarding the issue below would be really appreciated :
+
+""Command 'Q#: Create new project...' resulted in an error (Running the contributed command: 'quantum.newProject' failed.)""
+
+I was trying to follow this exercice : https://docs.microsoft.com/fr-fr/learn/modules/qsharp-create-first-quantum-development-kit/2-install-quantum-development-kit-code
+
+after downloading and running the latest versions of .NET CORE and VSCODE, I am able to use "Q# Install command line project templates" 
+but it does not work for "Q# Create a new project : See screenshot1 screenshot 2 
+I already done this exercice in May last year but for some reasons I get stuck at the very beginning of the process now.
+
+Could it be a version issue ? 
+I remember that the tutorial was different (May 2020) than the one above I shared to you. 
+Unfortunately I can't find the previous tutorial as it has been updated since.
+
+I tried to uninstall the latest versions to reinstall the versions I downloaded in May : useless, I get the same issue.
+
+
+
+Many thanks for you help !
+
+Line. 
